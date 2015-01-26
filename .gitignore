@@ -1,0 +1,11 @@
+.DS_Store
+objs
+*.o
+*.d
+*.so
+*.dylib
+.mihari
+/bin
+/assets
+/dist
+/mihari/bindata.go
